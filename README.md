@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outakoo&label=Profile%20views&color=0e75b6&style=flat" alt="outakoo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/outakoo" target="blank"><img src="https://img.shields.io/twitter/follow/outakoo?logo=twitter&style=for-the-badge" alt="outakoo" /></a> </p>
-
 - 🔭 I’m currently working on [lionZone](@lionZone)
 
 - 🌱 I’m currently learning **React**
